@@ -1,3 +1,5 @@
 Esto es un archivo Ejemplo y va recibir un cambio
 
 En camara parece alto, pero en realidad no lo es tanto
+
+Hoy hablaremos de su vida
