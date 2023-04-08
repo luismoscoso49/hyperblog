@@ -2,4 +2,6 @@ Esto es un archivo Ejemplo y va recibir un cambio
 
 En camara parece alto, pero en realidad no lo es tanto
 
-Mañana nos enfocaremos en su vida laboral
+Mañana nos enfocaremos en su vida labor    
+
+Anita Platzi tiene 41 años y nacio en internet
